@@ -135,4 +135,6 @@ I'm a first-year Computer Science student learning Python and exploring programm
 
 ## License
 
-This project is open for learning and educational purposes.
+This project is licensed under the MIT License — you're free to use, copy, modify, and distribute it, including for commercial purposes, as long as the original copyright notice is included.
+
+Copyright (c) 2026 ajlan-codes
